@@ -10,6 +10,7 @@ public class Welcome {
 		for (int i = 0; i < greeting.length(); i++)
 			System.out.print("=");
 		System.out.println();
+		// Конец программы
 	}
 
 }
