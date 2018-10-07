@@ -12,6 +12,9 @@ public class Welcome {
 		System.out.println();
 
 		System.out.println("Конец программы.");
+
+		// Конец программы
+
 	}
 
 }
